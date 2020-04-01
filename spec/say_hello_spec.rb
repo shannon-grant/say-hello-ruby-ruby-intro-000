@@ -15,4 +15,5 @@ end
 
 def say_hello (name,name = "Ruby Programmer")
   puts "Hello, #{name,name = "Ruby Programmer"}"
+  name = "Gabriela"
 end
